@@ -1,18 +1,7 @@
-﻿# Pacman-Contest
-# Licensing Information 
-You are free to use or extend these projects for
-educational purposes provided that (1) you do not distribute or publish
-solutions, (2) you retain this notice, and (3) you provide clear
-attribution to UC Berkeley, including a link to http://ai.berkeley.edu.
+﻿# What is this?
+ This repo contains my solution for the Pacman-contest (and the entire game). Basically my strategy is to let my agents to be dynamic agents and assign roles (attack, defend, patrol, etc) to them based on situations. They will (hopefully) work collaboratively and defeat the enemy. I got the 4th places in a class with ~ 100 students.
 
-# Attribution Information
-The Pacman AI projects were developed at UC Berkeley.
-The core projects and autograders were primarily created by John DeNero
-(denero@cs.berkeley.edu) and Dan Klein (klein@cs.berkeley.edu).
-Student side autograding was added by Brad Miller, Nick Hay, and
-Pieter Abbeel (pabbeel@cs.berkeley.edu).
-
-# What is it?
+# Game rule?
 The contest involves a multi-player capture-the-flag variant of Pacman, where agents control both Pacman and ghosts in coordinated team-based strategies. Your team will try to eat the food on the far side of the map, while defending the food on your home side.
 
 # Rules of Pacman Capture the Flag
@@ -200,3 +189,17 @@ Directory containing the test cases for each question
 
 searchTestClasses.py
 Project 1 specific autograding test classes
+
+ 
+# Licensing Information 
+You are free to use or extend these projects for
+educational purposes provided that (1) you do not distribute or publish
+solutions, (2) you retain this notice, and (3) you provide clear
+attribution to UC Berkeley, including a link to http://ai.berkeley.edu.
+
+# Attribution Information
+The Pacman AI projects were developed at UC Berkeley.
+The core projects and autograders were primarily created by John DeNero
+(denero@cs.berkeley.edu) and Dan Klein (klein@cs.berkeley.edu).
+Student side autograding was added by Brad Miller, Nick Hay, and
+Pieter Abbeel (pabbeel@cs.berkeley.edu).
