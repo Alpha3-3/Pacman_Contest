@@ -1,5 +1,5 @@
 ﻿# What is this?
- This repo contains my solution for the Pacman-contest (and the entire game). Basically my strategy is to let my agents to be dynamic agents and assign roles (attack, defend, patrol, etc) to them based on situations. They will (hopefully) work collaboratively and defeat the enemy. I got the 4th places in a class with ~ 100 students.
+ This repo contains my solution (mainly in myTeam.py) for the Pacman-contest (and the entire game). Basically my strategy is to let my agents to be dynamic agents and assign roles (attack, defend, patrol, etc) to them based on situations. They will (hopefully) work collaboratively and defeat the enemy. I got the 4th places in a class with ~ 100 students.
 
 # Game rule?
 The contest involves a multi-player capture-the-flag variant of Pacman, where agents control both Pacman and ghosts in coordinated team-based strategies. Your team will try to eat the food on the far side of the map, while defending the food on your home side.
